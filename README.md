@@ -24,8 +24,4 @@ I'm working on sharing real-world inspired projects covering:
 📊 SQL data cleaning and exploration case studies
 📈 Excel-based financial models and trackers
 ---
-📫 Let's Connect
-![LinkedIn](https://img.shields.io/badge/LinkedIn-karthikeyan62-0A66C2?style=flat&logo=linkedin&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-karthikeyan060-181717?style=flat&logo=github&logoColor=white)
----
 B.Tech Information Technology — SRM University (CGPA: 8.73)
